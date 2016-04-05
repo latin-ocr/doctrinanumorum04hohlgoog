@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctrinanumorum04hohlgoog_0596.png"; bbox 0 0 4388 5576; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1913 1250 3032 3034">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1913 1250 3032 3034">
+     <span class='ocr_line' id='line_1_1' title="bbox 1913 1250 3032 3034; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1913 1250 3032 3034; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1649 3633 3240 3729">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1649 3633 3240 3729">
+     <span class='ocr_line' id='line_1_2' title="bbox 1649 3633 3240 3729; baseline -0.009 0"><span class='ocrx_word' id='word_1_2' title='bbox 1649 3640 1812 3729; x_wconf 55' lang='lat' dir='ltr'>J&amp;</span> <span class='ocrx_word' id='word_1_3' title='bbox 1847 3636 2436 3728; x_wconf 58' lang='lat' dir='ltr'>SEPMUS</span> <span class='ocrx_word' id='word_1_4' title='bbox 2494 3635 2605 3721; x_wconf 55' lang='lat' dir='ltr'>&#39;E</span> <span class='ocrx_word' id='word_1_5' title='bbox 2637 3633 3174 3720; x_wconf 55' lang='lat' dir='ltr'>GKHE‘L</span> <span class='ocrx_word' id='word_1_6' title='bbox 3219 3695 3240 3714; x_wconf 69' lang='lat'>0</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3093 5319 3970 5493">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3093 5319 3970 5493">
+     <span class='ocr_line' id='line_1_3' title="bbox 3093 5319 3970 5493; baseline 0 -53"><span class='ocrx_word' id='word_1_7' title='bbox 3093 5391 3343 5455; x_wconf 61' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_8' title='bbox 3371 5391 3434 5455; x_wconf 69' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_9' title='bbox 3456 5319 3970 5493; x_wconf 70' lang='lat' dir='ltr'>GOOgle</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 4251 2620 4253 3418">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 4251 2620 4253 3418">
+     <span class='ocr_line' id='line_1_4' title="bbox 4251 2620 4253 3418; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 4251 2620 4253 3418; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 4250 3721 4252 4405">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 4250 3721 4252 4405">
+     <span class='ocr_line' id='line_1_5' title="bbox 4250 3721 4252 4405; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 4250 3721 4252 4405; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 4250 3721 4253 5093">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 4250 3721 4253 5093">
+     <span class='ocr_line' id='line_1_6' title="bbox 4250 3721 4253 5093; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 4250 3721 4253 5093; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
